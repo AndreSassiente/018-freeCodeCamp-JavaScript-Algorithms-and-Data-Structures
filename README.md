@@ -1,5 +1,3 @@
-Developers use HTML and CSS to control the content and styling of a page. And they use JavaScript to make that page interactive.
+Neste curso de Certificação em Algoritmos e Estruturas de Dados em JavaScript, eu aprendi os fundamentos do JavaScript, como variáveis, arrays, objetos, loops, funções, o DOM e muito mais.
 
-In this JavaScript Algorithm and Data Structures Certification, you'll learn the JavaScript fundamentals like variables, arrays, objects, loops, functions, the DOM and more.
-
-You'll also learn about Object Oriented Programming (OOP), Functional Programming, algorithmic thinking, how to work with local storage, and how to fetch data using an API.
+Também aprendi sobre Programação Orientada a Objetos (OOP), Programação Funcional, pensamento algorítmico, como trabalhar com armazenamento local e como buscar dados usando uma API.
